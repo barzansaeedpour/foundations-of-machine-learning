@@ -2,7 +2,7 @@
 
 # Machine Learning Curriculum
 
-Welcome to the Machine Learning Curriculum! As an instructor, you have the opportunity to equip your students with essential knowledge and skills in the exciting field of machine learning. Here are the key topics you might consider covering:
+Welcome to the Machine Learning Curriculum!
 
 ## 1. Foundations of Machine Learning
 
