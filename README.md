@@ -4,7 +4,7 @@
 
 Welcome to the Machine Learning Curriculum!
 
-## 1. Foundations of Machine Learning
+## 1. Mathematics for Machine Learning
 
 - **Linear Algebra**: Understand matrices, vectors, and linear transformations.
 - **Probability and Statistics**: Learn about probability distributions, hypothesis testing, and regression.
